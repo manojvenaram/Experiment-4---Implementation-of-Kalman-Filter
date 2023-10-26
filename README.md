@@ -73,7 +73,7 @@ plt.show()
 ```
 
 ## Output:
-![output](out.png)
+![output](1.png)
 
 ## Result:
 Thus, Kalman filter to predict the position and velocity of an object is implemented successfully.
